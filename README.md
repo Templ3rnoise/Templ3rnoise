@@ -1,3 +1,5 @@
+![artwork (1)](https://github.com/Templ3rnoise/Templ3rnoise/assets/131615474/767bebb4-cba4-4f37-beca-a9a52265b3aa)
+
 <h1 align="center">Hi 👋, I'm Thomas Chalandon</h1>
 <h3 align="center">A passionate frontend developer from Berlin, Germany</h3>
 
